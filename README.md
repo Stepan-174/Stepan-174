@@ -2,7 +2,7 @@
 
 <h1 align="center"></a> 
 <img src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"/></h1>
-<h3 align="center"></h3>
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
